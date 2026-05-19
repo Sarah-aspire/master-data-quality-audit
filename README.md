@@ -21,6 +21,15 @@ The workflow includes:
 * SQL
 * Excel / CSV
 * Power BI
+* ## Key Validation Checks
+
+* Duplicate service code detection
+* Missing value analysis
+* Invalid status validation
+* Cost center format validation
+* Data consistency checks
+* KPI-based quality monitoring
+
 
 ## Project Structure
 
@@ -43,6 +52,11 @@ master-data-quality-audit/
 * Create structured validation workflows
 * Generate understandable reports and dashboards
 * Support reliable business processes through better data quality
+
+  ## Business Value
+
+This project demonstrates how structured data validation and reporting workflows can support more reliable operational processes and improve master data quality in business environments.
+
 
 ## Status
 
