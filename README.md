@@ -61,3 +61,7 @@ This project demonstrates how structured data validation and reporting workflows
 ## Status
 
 Project in development.
+## Dashboard Preview
+
+![Dashboard Preview](screenshots/dashboard_preview.png)
+
