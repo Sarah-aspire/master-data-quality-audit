@@ -65,3 +65,9 @@ Project in development.
 
 ![Dashboard Preview](screenshots/dashboard_preview.png)
 
+Power BI dashboard file:
+
+[Download Power BI Dashboard](dashboard/master_data_quality_dashboard.pbix)
+
+
+
